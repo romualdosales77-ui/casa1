@@ -1,0 +1,11 @@
+name = "appempresa"
+main = "worker/index.ts"
+compatibility_date = "2024-09-23"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+
+[[kv_namespaces]]
+binding = "SITE_DATA"
+id = "0b62fb1bf58247ebb7c32f5815ec83a1"

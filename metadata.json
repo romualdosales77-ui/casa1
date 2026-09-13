@@ -1,0 +1,6 @@
+{
+  "name": "Vitrine & Vendas Pro",
+  "description": "Plataforma profissional para venda de programas e ferramentas para Game Dev com catálogo em destaque, demonstração em vídeo, área PIX e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
